@@ -37,7 +37,7 @@ int main(int argc, char *argv[])
             exit(1);
         }
     }
-printf("hello");
+
     string InFile = filename + ".dat";
 	string OutFile = filename + ".out";
 
